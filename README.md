@@ -1,2 +1,2 @@
 # AI-Car
-AI-Powered Autonomous Car — An intelligent robotic vehicle featuring real-time non-blocking obstacle avoid ESP32-S3ance, facial recognition, and voice command processing powered by  ESP32-S3
+A smart autonomous vehicle that navigates smoothly without stopping. It maps its environment to dodge obstacles on the fly while recognizing faces and responding to voice commands in real time.
