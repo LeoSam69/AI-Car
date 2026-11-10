@@ -23,9 +23,9 @@
 #define MAX_RECORDING_SECONDS 4
 #define PCM_WAV_HEADER_SIZE 44
 #define MAX_AUDIO_BYTES (SAMPLE_RATE * 2 * MAX_RECORDING_SECONDS)
-const char* ssid = "Xiaomi_0CBA";
-const char* password = "Hetauda@131";
-const char* apiKey = "AQ.Ab8RN6ItNb46wRWpto8lE_VYCU4HgKss74wHSrZ9a-akXdn73A";
+const char* ssid = "*******";
+const char* password = "******";
+const char* apiKey = "********";
 
 const char* geminiURL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent";
 
