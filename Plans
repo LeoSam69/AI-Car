@@ -1,0 +1,11 @@
+Minimum Requirements:
+ The car can drive through a U-shaped track and avoid obstacles along its path.
+
+Inertial Navigation:
+ The car knows its position and can avoid obstacles intelligently.
+
+AI Integration:
+ The car can receive voice commands and act accordingly.
+
+Vision:
+ The car can use AI to analyse camera input and analyze data.
